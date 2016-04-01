@@ -15,8 +15,5 @@
         "psr-4": {
             "Osinz\\Hello\\":"src/"
         }
-    },
-    "require": {
-        "osinz/hello": "dev-master"
     }
 }
