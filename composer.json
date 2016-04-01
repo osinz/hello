@@ -1,6 +1,5 @@
 {
     "name": "osinz/hello",
-    "minimum-stability": "dev",
     "type": "library",
     "description": "这里是描述",
     "homepage": "http://github.com/osinz",
@@ -16,5 +15,8 @@
         "psr-4": {
             "Osinz\\Hello\\":"src/"
         }
+    },
+    "require": {
+        "osinz/hello": "dev-master"
     }
 }
