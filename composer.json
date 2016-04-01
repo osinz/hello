@@ -2,8 +2,6 @@
     "name": "osinz/hello",
     "type": "library",
     "description": "这里是描述",
-    "homepage": "http://github.com/osinz",
-    "license" : "BSD",
     "authors" : [
         {
             "name": "Osinz",
