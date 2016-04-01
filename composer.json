@@ -1,6 +1,5 @@
 {
     "name": "osinz/hello",
-    "minimum-stability": "dev",
     "type": "library",
     "description": "这里是描述",
     "homepage": "http://github.com/osinz",
@@ -8,8 +7,7 @@
     "authors" : [
         {
             "name": "Osinz",
-            "email": "chenqionghe@sina.com",
-            "homepage": "http://www.osinz.com"
+            "email": "490971501@qq.com"
         }
     ],
     "autoload": {
