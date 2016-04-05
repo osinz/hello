@@ -1,6 +1,7 @@
 {
     "name": "osinz/hello",
     "type": "library",
+    "license": "MIT",
     "description": "这里是描述",
     "authors" : [
         {
